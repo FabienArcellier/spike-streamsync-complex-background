@@ -144,6 +144,86 @@
             "position": 1,
             "handlers": {},
             "visible": true
+        },
+        "mp8wijxwgml2k9yp": {
+            "id": "mp8wijxwgml2k9yp",
+            "type": "section",
+            "content": {
+                "title": "Section Title",
+                "snapMode": "no"
+            },
+            "parentId": "c0f99a9e-5004-4e75-a6c6-36f17490b134",
+            "position": 2,
+            "handlers": {},
+            "visible": true
+        },
+        "sezatwqphcwgbe2y": {
+            "id": "sezatwqphcwgbe2y",
+            "type": "section",
+            "content": {
+                "title": "Section Title",
+                "snapMode": "no"
+            },
+            "parentId": "c0f99a9e-5004-4e75-a6c6-36f17490b134",
+            "position": 3,
+            "handlers": {},
+            "visible": true
+        },
+        "zjx0ml8wheuj3l4e": {
+            "id": "zjx0ml8wheuj3l4e",
+            "type": "section",
+            "content": {
+                "title": "Section Title",
+                "snapMode": "no"
+            },
+            "parentId": "c0f99a9e-5004-4e75-a6c6-36f17490b134",
+            "position": 4,
+            "handlers": {},
+            "visible": true
+        },
+        "xy40mgkdbeasm7py": {
+            "id": "xy40mgkdbeasm7py",
+            "type": "section",
+            "content": {
+                "title": "Section Title",
+                "snapMode": "no"
+            },
+            "parentId": "c0f99a9e-5004-4e75-a6c6-36f17490b134",
+            "position": 5,
+            "handlers": {},
+            "visible": true
+        },
+        "mz40gmueh1cu2fz6": {
+            "id": "mz40gmueh1cu2fz6",
+            "type": "section",
+            "content": {
+                "title": "Section Title",
+                "snapMode": "no"
+            },
+            "parentId": "c0f99a9e-5004-4e75-a6c6-36f17490b134",
+            "position": 6,
+            "handlers": {},
+            "visible": true
+        },
+        "mtck907gx3w51rwf": {
+            "id": "mtck907gx3w51rwf",
+            "type": "image",
+            "parentId": "sezatwqphcwgbe2y",
+            "content": {
+                "caption": "Image Caption"
+            },
+            "handlers": {},
+            "position": 0,
+            "visible": true
+        },
+        "n3jmngxq35lklueu": {
+            "id": "n3jmngxq35lklueu",
+            "type": "videoplayer",
+            "parentId": "c0f99a9e-5004-4e75-a6c6-36f17490b134",
+            "content": {},
+            "handlers": {},
+            "position": 7,
+            "visible": true
         }
     }
 }
