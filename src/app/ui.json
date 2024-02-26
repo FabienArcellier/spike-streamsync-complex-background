@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "streamsync_version": "0.1.4"
+        "streamsync_version": "0.2.8"
     },
     "components": {
         "root": {
@@ -19,7 +19,7 @@
             "type": "page",
             "content": {
                 "pageMode": "compact",
-                "emptinessColor": "#e9eef1"
+                "emptinessColor": "#121844"
             },
             "parentId": "root",
             "position": 0,

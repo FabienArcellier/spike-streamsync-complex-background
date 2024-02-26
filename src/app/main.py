@@ -39,4 +39,5 @@ initial_state = ss.init_state({
 
 _update_message(initial_state)
 
-initial_state.import_stylesheet('main', '/static/main.css')
+initial_state.import_stylesheet('theme', '/static/theme.css')
+initial_state.import_script('theme', '/static/theme.js')

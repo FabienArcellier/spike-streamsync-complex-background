@@ -1,13 +1,8 @@
-## blueprint-streamsync
+## Streamsync - Demo complex theme
 
 [![ci](https://github.com/FabienArcellier/blueprint-streamsync/actions/workflows/main.yml/badge.svg)](https://github.com/FabienArcellier/blueprint-streamsync/actions/workflows/main.yml)
 
-
-blueprint to implement a simple spike with [streamsync](https://github.com/streamsync-cloud/streamsync)
-
-* prototype quick application with low code UI
-* build demo for streamsync
-* ...
+![demo-theme](demo-theme.gif)
 
 ## Getting started
 
